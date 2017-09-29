@@ -7,4 +7,8 @@ public class Alumn{
 	public void execute(){
 		//Ingresa aqui el codigo
 	}
+	public void dosome(){
+			//Code here
+
+	}
 }
