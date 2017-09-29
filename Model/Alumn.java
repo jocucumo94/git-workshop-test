@@ -15,4 +15,8 @@ public class Alumn{
 	public void re(){
 		
 	}
+
+	public void asas(){
+
+	}
 }
