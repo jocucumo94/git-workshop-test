@@ -11,4 +11,8 @@ public class Alumn{
 			//Code here
 
 	}
+
+	public void re(){
+		
+	}
 }
