@@ -7,16 +7,10 @@ public class Alumn{
 	public void execute(){
 		//Ingresa aqui el codigo
 	}
-	public void dosome(){
-			//Code here
-
-	}
-
+	
 	public void re(){
 		
 	}
 
-	public void asas(){
 
-	}
 }
